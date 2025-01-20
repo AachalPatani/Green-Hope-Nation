@@ -14,14 +14,6 @@ Enable users to find and sign up for volunteering activities aligned with their 
 Event Management
 Organize and promote eco-friendly events such as clean-up drives, tree plantation programs, and workshops.
 
-Resource Center
-Provide downloadable resources like guides, infographics, and learning materials on sustainability practices.
-
-Interactive Community
-Facilitate discussions and knowledge-sharing through forums and discussion boards.
-
-Gamification
-Reward users for active participation through badges, points, and certificates.
 
 🧩 Tech Stack
 Frontend: HTML, CSS, JavaScript, Bootstrap
@@ -31,11 +23,13 @@ Database: MySQL
 Awareness: Educate people about pressing environmental issues.
 Engagement: Encourage active participation in local and global sustainability campaigns.
 Empowerment: Provide tools and resources to help individuals and organizations contribute meaningfully.
+
 🚀 How to Contribute
 Fork this repository.
 Create a new branch for your feature or fix.
 Commit your changes with clear messages.
 Push the changes to your fork.
 Open a Pull Request with a detailed explanation of your changes.
+
 💚 Join Us in Making a Difference
 At Green Hope Nation, we believe that collective efforts can drive impactful change. Together, we can create a greener, cleaner, and more sustainable world. 🌿
